@@ -1,0 +1,13 @@
+#premier TP de Dib date=08/11/2025
+a=3
+b=5
+a=1
+b=2
+a=7
+print("a=",a)#affichage de a
+print("b=",b)#affichage de b
+print("a+b=",a+b)#affichage de a+b
+a=0
+print("a=",a)#affichage de a
+print("b=",b)#affichage de b
+print("a-b=",a-b)#affichage de a-b
